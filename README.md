@@ -1,5 +1,11 @@
 # China---ESP8266-D1-Wifi-with-MP3-RFID-and-Buttons
 
+Links to the products:
+4€ ~ ESP8266 https://a.aliexpress.com/_EQYIfMJ
+3€ ~ RFID https://a.aliexpress.com/_EHvVy2J
+2€ ~ MP3 https://a.aliexpress.com/_EytHyl9
+2€ ~ Buttons https://a.aliexpress.com/_ExdPywr
+
 #PIN usage on ESP8266 China Module:
 #Label  	  GPIO  	  What I use it for   Safe to use?  	Reason
 #D0	      GPIO16		                    HIGH at boot, used to wake up from deep sleep ?? Can I use it for deepsleep?
