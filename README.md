@@ -1,14 +1,14 @@
 # China---ESP8266-D1-Wifi-with-MP3-RFID-and-Buttons
 
-PIN usage on ESP8266 China Module:
-Label  	  GPIO  	  What I use it for   Safe to use?  	Reason
-D0	      GPIO16		                    HIGH at boot, used to wake up from deep sleep ?? Can I use it for deepsleep?
-D15/SCL   GPIO5		  RFID Connection
-D14/SDA	  GPIO4		  RFID Connection
-D11 MOSI  GPIO13		MP3 Player RX
-D10 SS    GPIO15		MP3 Player TX
-RX/DO     GPIO3		  Button MP3 Pause
-D13/SCK   GPI14		  Button for Sleep Timer
+#PIN usage on ESP8266 China Module:
+#Label  	  GPIO  	  What I use it for   Safe to use?  	Reason
+#D0	      GPIO16		                    HIGH at boot, used to wake up from deep sleep ?? Can I use it for deepsleep?
+#D15/SCL   GPIO5		  RFID Connection
+#D14/SDA	  GPIO4		  RFID Connection
+#D11 MOSI  GPIO13		MP3 Player RX
+#D10 SS    GPIO15		MP3 Player TX
+#RX/DO     GPIO3		  Button MP3 Pause
+#D13/SCK   GPI14		  Button for Sleep Timer
 
 
 MP3 - TF - 16P
