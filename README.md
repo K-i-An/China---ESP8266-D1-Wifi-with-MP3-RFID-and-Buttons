@@ -59,7 +59,7 @@ RFID Pinout;
 |         SS   |  ---- D14/SDA/D4  ---- GPIO5 |
 
 
-## Usage Instructions
+## Buttons
 - Green Button: Short press to play next / long press to increase volume.
 - Yellow Button: Short press to play previous / long press to decrease volume.
 - Blue Button: Activates sleep mode, turns off after 1 hour.
