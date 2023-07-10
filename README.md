@@ -21,7 +21,7 @@ This repository contains the code and documentation for setting up an ESP8266 D1
 
 ## MP3 Connections
 - MP3 - TF - 16P Pinout:
-
+ 
 ---| VCC   UU  BUSSY |---
 ---| RX         USB- |---
 ---| TX         USB+ |---
