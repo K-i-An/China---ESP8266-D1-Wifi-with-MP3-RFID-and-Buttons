@@ -3,10 +3,13 @@
 This repository contains the code and documentation for setting up an ESP8266 D1 WiFi module with MP3, RFID, and buttons from China. The project aims to create three MP3 boxes for three children, utilizing RFID cards to select specific folders. The buttons control various functions such as play/pause, volume control, and sleep mode.
 
 ## Product Links
-- ESP8266: [Link](https://a.aliexpress.com/_EQYIfMJ) - Price: €4
-- RFID: [Link](https://a.aliexpress.com/_EHvVy2J) - Price: €3
-- MP3: [Link](https://a.aliexpress.com/_EytHyl9) - Price: €2
-- Buttons: [Link](https://a.aliexpress.com/_ExdPywr) - Price: €2
+| Product   | Link                                          | Price (€) |
+|-----------|-----------------------------------------------|-----------|
+| ESP8266   | [Link](https://a.aliexpress.com/_EQYIfMJ)     | 4         |
+| RFID      | [Link](https://a.aliexpress.com/_EHvVy2J)     | 3         |
+| MP3       | [Link](https://a.aliexpress.com/_EytHyl9)     | 2         |
+| Buttons   | [Link](https://a.aliexpress.com/_ExdPywr)     | 2         |
+
 
 ## Pin Usage on ESP8266 China Module
 | Label   | GPIO  | Function                 | Safe to use? | Reason                               |
