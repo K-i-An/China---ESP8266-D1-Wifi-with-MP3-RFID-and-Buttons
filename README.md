@@ -20,16 +20,16 @@ This repository contains the code and documentation for setting up an ESP8266 D1
 | D13/SCK | GPIO14| Button for Sleep Timer    |              |                                      |
 
 ## MP3 Connections
- MP3 - TF - 16P Pinout:
- 
----| VCC   UU  BUSSY |---
----| RX         USB- |---
----| TX         USB+ |---
----| DAC_R    ADKEY1 |---
----| DAV_L    ADKEY2 |---
----| SPK +     I/O 2 |---       Button Short Press to play next / long to increase volume
----| GND         GND |---
----| SPK -     I/O 1 |---       Button Short Press to play previous / long to decrease volume
+| MP3 | TF | 16P Pinout:  |     |
+|--------|------|-----------|-----|
+|--- VCC | UU | BUSSY ---| |
+|--- RX | | USB- ---| |
+|--- TX | | USB+ ---| |
+|--- DAC_R || ADKEY1 ---| |
+|--- DAV_L || ADKEY2 ---| |
+|--- SPK +  || I/O 2 ---|       Button Short Press to play next / long to increase volume |
+|--- GND || GND ---| |
+|--- SPK - || I/O 1 ---|       Button Short Press to play previous / long to decrease volume |
 
  Connection to ESP8266/Speaker
 | PIN   | Speaker/ Esp8266   |
